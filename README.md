@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MohamedFathy610/Problem-solving/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MohamedFathy610/Problem-solving/tree/master/0013-roman-to-integer) |
 ## String
 |  |
@@ -21,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MohamedFathy610/Problem-solving/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MohamedFathy610/Problem-solving/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/MohamedFathy610/Problem-solving/tree/master/0204-count-primes) |
 ## Enumeration
