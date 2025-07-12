@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/MohamedFathy610/Problem-solving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MohamedFathy610/Problem-solving/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/MohamedFathy610/Problem-solving/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/MohamedFathy610/Problem-solving/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohamedFathy610/Problem-solving/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/MohamedFathy610/Problem-solving/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MohamedFathy610/Problem-solving/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/MohamedFathy610/Problem-solving/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
