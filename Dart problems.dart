@@ -70,6 +70,104 @@ void main ()
     }
     print (newList);
     */
+       //problem 8
+    /*
+    print('Enter your name :');
+    String? name = stdin.readLineSync();
+    play(name!);
+
+    // حط الكومنت الي تحت برا ال main وبعد كده شغل 
+    /*
+import 'dart:math';
+
+int comp=0,ply=0;
+int getplychoose(String name){
+  print('$name,enter your choose :');
+  print(' 1 - rock /n 2- paper /n 3- scissors :');
+  int? plychoose = int.parse(stdin.readLineSync().toString());
+  if (plychoose >3 || plychoose<1)
+  {
+    print ('Not valid choose');
+    getplychoose( name);
+  }
+  plychoose --;
+  return plychoose;
+}
+void wantToComplate(String name)
+{
+   print('Do you want to complate ? 1 manes yes 0 manes no ');
+   int want = int.parse(stdin.readLineSync().toString());
+   if (want >1 || want<0)
+  {
+    print ('Not valid choose');
+    wantToComplate(name);
+  }
+  if (want ==1) play(name);
+  else if (want ==0){
+    comp =0;
+    ply =0;
+    exit(0);
+  }
+}
+void play(String name ){
+   List<String> options = ["rock", "paper", "scissors"];
+
+    int plychoose = getplychoose(name);
+    Random random = new Random();
+    int compchoose =random.nextInt(3);
+    print("You choosed : ${options[plychoose]}");
+    print("Computer choossed : ${options[compchoose]}");
+
+    if (plychoose == 0)
+    {
+      if (compchoose ==0 ) print('Draw !');
+      else if (compchoose ==1){
+        print("Computer win !");
+        comp ++;
+      }
+      else if (compchoose == 2)
+      {
+        print("$name win !");
+        ply ++;
+      }
+
+    }
+    else  if (plychoose == 1)
+    {
+      if (compchoose ==1 ) print('Draw !');
+      else if (compchoose ==2){
+        print("Computer win !");
+        comp ++;
+      }
+      else if (compchoose == 0)
+      {
+        print("$name win !");
+        ply ++;
+      }
+    }
+    else  if (plychoose == 2)
+    {
+      if (compchoose ==2 ) print('Draw !');
+      else if (compchoose ==0){
+        print("Computer win !");
+        comp ++;
+      }
+      else if (compchoose == 1)
+      {
+        print("$name win !");
+        ply ++;
+      }
+    }
+
+    print('Final score :');
+    print('You : $ply');
+    print('Computer : $comp');
+
+   wantToComplate(name);
+}
+*/
+*/
+
 
 
 }
