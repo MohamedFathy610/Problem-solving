@@ -59,6 +59,17 @@ void main ()
     print('No input provided.');
   }
     */
+     //problem 7
+    /*
+    List <int> a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100];
+    List <int> newList =[] ;
+    for (int arr in a)
+    {
+      if (arr %2 == 0)
+      {newList.add(arr);}
+    }
+    print (newList);
+    */
 
 
 }
