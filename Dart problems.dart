@@ -45,6 +45,20 @@ void main ()
     Set c = {...a,...b};
     print(c);
     */
+     //problem 6
+    /*
+    print('Enter a String ');
+    String? s = stdin.readLineSync();
+   
+   if( s != null && s.isNotEmpty) {
+    String reverseds = s.split('').reversed.join();
+    if (reverseds == s)
+    print('paillondorm');
+    else print('Not paillondorm');
+  } else {
+    print('No input provided.');
+  }
+    */
 
 
 }
