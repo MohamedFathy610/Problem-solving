@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/MohamedFathy610/Problem-solving/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MohamedFathy610/Problem-solving/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/MohamedFathy610/Problem-solving/tree/master/0204-count-primes) |
+| [0704-binary-search](https://github.com/MohamedFathy610/Problem-solving/tree/master/0704-binary-search) |
 ## Enumeration
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/MohamedFathy610/Problem-solving/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/MohamedFathy610/Problem-solving/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
