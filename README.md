@@ -27,6 +27,7 @@
 | [0204-count-primes](https://github.com/MohamedFathy610/Problem-solving/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/MohamedFathy610/Problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedFathy610/Problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1552-magnetic-force-between-two-balls](https://github.com/MohamedFathy610/Problem-solving/tree/master/1552-magnetic-force-between-two-balls) |
 ## Enumeration
 |  |
 | ------- |
@@ -44,4 +45,9 @@
 | ------- |
 | [0704-binary-search](https://github.com/MohamedFathy610/Problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedFathy610/Problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1552-magnetic-force-between-two-balls](https://github.com/MohamedFathy610/Problem-solving/tree/master/1552-magnetic-force-between-two-balls) |
+## Sorting
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/MohamedFathy610/Problem-solving/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
