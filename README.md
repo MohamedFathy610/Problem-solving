@@ -26,6 +26,7 @@
 | [0066-plus-one](https://github.com/MohamedFathy610/Problem-solving/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/MohamedFathy610/Problem-solving/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/MohamedFathy610/Problem-solving/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedFathy610/Problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
@@ -42,4 +43,5 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/MohamedFathy610/Problem-solving/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedFathy610/Problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
