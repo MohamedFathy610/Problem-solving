@@ -27,6 +27,7 @@
 | [0204-count-primes](https://github.com/MohamedFathy610/Problem-solving/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/MohamedFathy610/Problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedFathy610/Problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/MohamedFathy610/Problem-solving/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MohamedFathy610/Problem-solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MohamedFathy610/Problem-solving/tree/master/1552-magnetic-force-between-two-balls) |
 ## Enumeration
@@ -46,6 +47,7 @@
 | ------- |
 | [0704-binary-search](https://github.com/MohamedFathy610/Problem-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedFathy610/Problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/MohamedFathy610/Problem-solving/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MohamedFathy610/Problem-solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MohamedFathy610/Problem-solving/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
